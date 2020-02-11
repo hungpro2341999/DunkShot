@@ -2156,6 +2156,11 @@ PrefabInstance:
       propertyPath: isUseFireBase
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 114075708017243130, guid: 2b4c09e101c7b274e81aec47dcdd2e5c,
+        type: 3}
+      propertyPath: ID_APP
+      value: ca-app-pub-4162057951378139~4157250905
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2b4c09e101c7b274e81aec47dcdd2e5c, type: 3}
 --- !u!1 &326257969
@@ -10456,7 +10461,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 7.100006, y: -103}
-  m_SizeDelta: {x: 382, y: 136}
+  m_SizeDelta: {x: 385, y: 114}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1886685765
 MonoBehaviour:
@@ -10534,7 +10539,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 89c60ad4b15dfdd429cc4df353ba9415, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e7e62260b0f45d8499073ac213d351f0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -642,6 +642,7 @@ public class GameController : MonoBehaviour
     void Start()
     {
 
+        Application.targetFrameRate = 60;
         if (!PlayerPrefs.HasKey(Key_Score_Mode_1))
         {
             PlayerPrefs.SetInt(Key_Score_Mode_1, 0);
