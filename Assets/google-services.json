@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "117572469557",
+    "firebase_url": "https://galaxy-attack-galaxy-shooter.firebaseio.com",
+    "project_id": "galaxy-attack-galaxy-shooter",
+    "storage_bucket": "galaxy-attack-galaxy-shooter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117572469557:android:103b2fefc839aa6523c27c",
+        "android_client_info": {
+          "package_name": "com.galaxy.attack.galaxy.shooter.space.top"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_A8AHOiLuFBD71N56SO5i6sDtzf7jPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117572469557:android:2d863b2b9ea1249a23c27c",
+        "android_client_info": {
+          "package_name": "com.slam.dunk.shot.nba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_A8AHOiLuFBD71N56SO5i6sDtzf7jPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117572469557:android:70a7b67a1f640a1e23c27c",
+        "android_client_info": {
+          "package_name": "com.topfreegame.classic.tank.battlecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_A8AHOiLuFBD71N56SO5i6sDtzf7jPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117572469557-ssanfpebpem738qgs6t7qi3a6lmpeuvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
